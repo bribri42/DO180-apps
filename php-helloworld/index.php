@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! Le site de Bribri ! "\n";
+print "Hello, World! Le site de Bribri !";
 ?>
